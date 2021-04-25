@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo: 1
+  categoria: 1
+  tela: 1
+  color_primario: 1
+  color_secundario: 1
+
+two:
+  tipo: 1
+  categoria: 1
+  tela: 1
+  color_primario: 1
+  color_secundario: 1
